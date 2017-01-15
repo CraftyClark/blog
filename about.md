@@ -8,4 +8,4 @@ Hi there! I'm new to this blogging stuff. Stay tuned.
 
 ### Contact me
 
-[email@domain.com](mailto:andrewclark.ku@gmail.com)
+[andrewclark.ku@gmail.com](mailto:andrewclark.ku@gmail.com)
